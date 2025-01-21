@@ -1,5 +1,5 @@
 # My TouchBar My Rules Presets
-[<img src="https://api.gitsponsors.com/api/badge/img?id=378392628" height="20">](https://api.gitsponsors.com/api/badge/link?p=/qNjmSBXgZHtTONVg1CD6XG9ff/dgtUdkzem4kibMy0Vzhi7AHXPIuu0hCRFIFofPP+rXLV9t4IeyIcveWETfMOI7YZDhyucoja9cCR58URQLoB0cwZBIlzmu1oELnZ4)
+
 Here we collect cool touch bar presets for [MTMR](https://github.com/toxblh/mtmr). Feel free to send your own configs in pull-requests. Do not forget to attach a screenshot (⇧⌘6) and write some description to this README.
 
 ---
